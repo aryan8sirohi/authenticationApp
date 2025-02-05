@@ -97,8 +97,8 @@ This is a simple user authentication application built with React. It allows use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/user-authentication-app.git
-   cd user-authentication-app
+   git clone hhttps://github.com/aryan8sirohi/authenticationApp.git
+   cd user-authenticationApp
    ```
 
 2. Install the dependencies:
